@@ -1,0 +1,11 @@
+**/src/main/resources/firestore-back.json
+**/src/main/resources/firestore.json
+
+**/target/classes
+**/target/generated-test-sources
+**/target/generated-sources
+**/target/maven-archiver
+**/target/maven-status
+**/target/surefire-reports
+**/target/test-classes
+**/target/app-firestore-0.0.1-SNAPSHOT.jar.original
